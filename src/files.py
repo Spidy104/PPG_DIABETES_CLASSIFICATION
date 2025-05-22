@@ -1,0 +1,6 @@
+DATASET_CSV_PATH = "D:\\trash)stuff\\PPG_BLOOD_GLUCOSE\\JB_implementation\\datasets\\PPG-BP dataset.xlsx"
+PPG_DIR = "D:\\trash)stuff\\PPG_BLOOD_GLUCOSE\\JB_implementation\\datasets\\0_subject"
+METADATA_PATH = "D:\\trash)stuff\\PPG_BLOOD_GLUCOSE\\JB_implementation\\datasets\\processed_metadata.csv"
+PREPROCESSED_PPG_DIR = "D:\\trash)stuff\\PPG_BLOOD_GLUCOSE\\JB_implementation\\datasets\\preprocessed_ppg.csv"
+PPG_ENSEMBLE_DIR = "D:\\trash)stuff\\PPG_BLOOD_GLUCOSE\\JB_implementation\\datasets\\ppg_bagging_tree_features.csv"
+PPG_MY_OWN = "D:\\trash)stuff\\PPG_BLOOD_GLUCOSE\\JB_implementation\\datasets\\ppg_specific_features.csv"
