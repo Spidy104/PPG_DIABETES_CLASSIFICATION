@@ -1,6 +1,6 @@
-# 🌟 PPG Blood Glucose
+# 🌟 PPG Blood Glucose Diabetes Classification
 
-Welcome to the **PPG Blood Glucose** project! 🎉  
+Welcome to the **PPG Blood Glucose Diabetes Classification** project! 🎉  
 This repository provides a pipeline for estimating blood glucose levels using **Photoplethysmography (PPG)** signals.  
 By combining advanced signal processing, machine learning, and visualizations, we enable **non-invasive diabetes screening** for modern preventive healthcare. 🩺💡
 
