@@ -15,7 +15,7 @@ The modular framework integrates signal engineering and machine learning, making
 ### ✨ Key Features
 
 - 📊 **Data Processing**: Preprocess raw PPG segments and extract physiological features  
-- 🤖 **Machine Learning Models**: Random Forest, Gradient Boosting, SVM, LightGBM, Logistic Regression, and Ensemble Methods  
+- 🤖 **Machine Learning Models**: Random Forest, Gradient Boosting, SVM, LightGBM, Logistic Regression, and Ensemble Methods, Stacking and Voting Classifiers  
 - 📈 **Visualizations**: ROC curves, confusion matrices, and feature importance plots  
 - 🧪 **Evaluation**: Subject-wise StratifiedGroupKFold cross-validation to prevent data leakage and ensure real-world applicability  
 
@@ -68,8 +68,8 @@ Let’s get you up and running in no time!
 #### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd JB_implementation
+git clone https://github.com/Spidy104/PPG_DIABETES_CLASSIFICATION
+cd PPG_DIABETES_CLASSIFICATION
 ```
 #### 2. Set Up a Virtual Environment (Recommended)
 
